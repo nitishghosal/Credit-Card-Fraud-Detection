@@ -17,4 +17,4 @@ Our objective is to construct a model to predict which transactions could be fra
 ## Approach
 Given the imbalanced dataset, we will first evaluate different resampling methods to overcome the skewed distribution in class. We will then build different models and stack them together to increase the overall accuracy.
 
-### The final report with findings can be found [here](http://rpubs.com/nitishghosal/370759).
+### The final report with findings can be found [here](http://rpubs.com/nitishghosal/370771).
